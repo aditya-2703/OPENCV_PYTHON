@@ -1,5 +1,5 @@
 # Volume Adjuster
 
 <p align="center">
-  <img src="">
+  <img src="poster.png">
 </p>
