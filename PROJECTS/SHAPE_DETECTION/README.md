@@ -13,7 +13,7 @@ This project is also used as module to build different things like traffic sign 
 ## Input static Image Given by program. 
 
 <p align="center">
-  <img src="/static/img.png">
+  <img src="./static/img.png">
 </p>
 
  
