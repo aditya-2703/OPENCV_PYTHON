@@ -15,3 +15,7 @@ Here i create Volume Adjuster with the help of opencv and handtracking module wi
  * `python main.py`
  
 ## What it looks like
+
+<p align="center">
+  <img src="video.gif">
+</p>
