@@ -22,8 +22,3 @@ In This repo I upload basics of opencv python in which you can -
  * Run the main.py file by doing..
  * `python main.py`
  
-## What it looks like
-
-<p align="center">
-  <img src="video.gif">
-</p>
