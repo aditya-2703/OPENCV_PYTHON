@@ -3,7 +3,7 @@
 Here i create Finger Counter with the help of opencv and handtracking module with mediapipe.
 
 <p align="center">
-  <img src="poster.png">
+  <img src="poster.jpg">
 </p>
 
 # How to run app 
