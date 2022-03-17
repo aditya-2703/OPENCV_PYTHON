@@ -12,7 +12,7 @@ In This repo I upload basics of opencv python in which you can -
   * basic functions on image  - grayscale image, blur image, etc..
 
 <p align="center">
-  <img src="image.png">
+  <img src="image.jpg">
 </p>
 
 # How to run app 
